@@ -115,3 +115,13 @@ inspect(tdm.common.20)
 
 
 # End.
+
+#Word Cloud
+#library("wordcloud")
+
+
+
+#basic R function
+
+#nrow(tdm[,3])  to count no of rows in matrix
+#dim(tdm[,2])   returns all dimension of matrix or array
